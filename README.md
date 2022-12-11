@@ -1,4 +1,4 @@
-# Gene-Biomarker
+# Gene Biomarker Website
 
 This code should run on a program that support .py, .html and .css files (ex. Pycharm, VS Code)
 ### `To run this code...` 
